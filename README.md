@@ -24,9 +24,9 @@ A link to more information on license
 [License: Unlicense](http://unlicense.org/)
 
 ## URL
-[URL]()
+[URL](https://text-editor19-pwa.herokuapp.com/)
 ## Github
 [Github](https://github.com/hkim84/19-PWA-Text-Editor)
 
 ## Screen Print
-![image]()
+![image](./images/Web%20capture_20-2-2023_191614_text-editor19-pwa.herokuapp.com.jpeg)
