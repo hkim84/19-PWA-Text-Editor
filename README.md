@@ -2,7 +2,7 @@
 
 
 ## Description
-using sql and server to get application website to work on node. 
+being able to open and view a app through using client and api files with webpack
 
 ## Table of Content
 - [Installation](## Installation)
@@ -17,7 +17,7 @@ You would need to install by doing
 npm i 
 
 ## Usage
-A server website for bloging about technology
+A server applications to use for a text editor 
 
 ## License
 A link to more information on license
